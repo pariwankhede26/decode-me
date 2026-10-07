@@ -1,0 +1,6 @@
+{
+  "name": "Decode Me: Personal Digital Twin",
+  "description": "AI-powered Personal Digital Twin connecting focus, screen time, nutrition, sleep, mood, and hobbies into contextual habit patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
